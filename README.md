@@ -1,4 +1,4 @@
 # hello-world
 hello... This is my first repository and i m still learning.
 i am learning c++.
-i im intersted in building gaming pc .
+intersted in building gaming pc .
